@@ -62,6 +62,7 @@ function Footer2() {
   return (
     <>
       <div className="w-full flex flex-col justify-center bg-gray-400 bg-opacity-5 p-8 py-14 bg-footer text-white">
+    <div class="elfsight-app-81bce766-f063-42c1-aebc-95a3fc88ebe2" data-elfsight-app-lazy></div>
         <div className="md:w-3/4 mx-auto text-center flex justify-center mb-4 md:flex-row flex-col-reverse bg-white rounded-xl p-2">
           <div className="w-full md:w-[70%] text-start self-center  md:px-10">
             <h2 className="text-black md:pt-0 pt-6">
